@@ -1,0 +1,625 @@
+[2024-07-09 15:17:58,012] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:17:58,012] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:18:12,080] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:18:12,080] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:18:17,351] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:18:17,351] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:18:23,318] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:18:23,318] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:19:26,339] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:19:26,340] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:21:58,851] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:21:58,851] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:23:45,159] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:23:45,184] [flaskapp.logging.CustomLogger] [DEBUG] => Using <SQLAlchemy> (app.py:24)
+[2024-07-09 15:23:45,190] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:23:45,190] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:23:56,381] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:24:03,025] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:24:30,647] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:24:30,672] [flaskapp.logging.CustomLogger] [DEBUG] => Using postgresql (app.py:26)
+[2024-07-09 15:24:30,678] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:24:30,678] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:25:00,010] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:25:00,035] [flaskapp.logging.CustomLogger] [DEBUG] => Using postgresql (app.py:26)
+[2024-07-09 15:25:00,040] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:25:00,041] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:25:28,637] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:25:28,661] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:26)
+[2024-07-09 15:25:28,667] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:25:28,667] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:25:42,720] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:25:42,745] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:26)
+[2024-07-09 15:25:42,754] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:25:42,755] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:27:00,626] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:17)
+[2024-07-09 15:27:00,651] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:26)
+[2024-07-09 15:27:00,657] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:27:00,657] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:40:29,369] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:20)
+[2024-07-09 15:40:40,313] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:20)
+[2024-07-09 15:40:40,338] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:31)
+[2024-07-09 15:40:40,344] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:40:40,344] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:41:56,209] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:20)
+[2024-07-09 15:41:56,234] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:31)
+[2024-07-09 15:41:56,239] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:41:56,240] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:43:01,515] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:20)
+[2024-07-09 15:43:01,540] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:31)
+[2024-07-09 15:43:01,543] [flaskapp.logging.CustomLogger] [DEBUG] => SQL error: Textual SQL expression 'SELECT 1' should be explicitly declared as text('SELECT 1') (app.py:37)
+[2024-07-09 15:43:01,546] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:43:01,546] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:43:45,321] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:18)
+[2024-07-09 15:43:45,345] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:29)
+[2024-07-09 15:43:45,349] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:33)
+[2024-07-09 15:43:45,352] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:43:45,352] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:44:15,924] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:18)
+[2024-07-09 15:44:18,796] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:29)
+[2024-07-09 15:44:18,803] [flaskapp.logging.CustomLogger] [DEBUG] => SQL error: (psycopg2.errors.UndefinedTable) ОШИБКА:  отношение "users" не существует
+LINE 1: select * from users;
+                      ^
+
+[SQL: select * from users;]
+(Background on this error at: https://sqlalche.me/e/20/f405) (app.py:35)
+[2024-07-09 15:44:18,828] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:44:18,828] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:44:34,148] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:18)
+[2024-07-09 15:44:34,173] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:29)
+[2024-07-09 15:44:34,177] [flaskapp.logging.CustomLogger] [DEBUG] => SQL error: (psycopg2.errors.UndefinedTable) ОШИБКА:  отношение "users" не существует
+LINE 1: select * from users;
+                      ^
+
+[SQL: select * from users;]
+(Background on this error at: https://sqlalche.me/e/20/f405) (app.py:35)
+[2024-07-09 15:44:34,180] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:44:34,180] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:46:55,571] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:19)
+[2024-07-09 15:46:55,596] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:30)
+[2024-07-09 15:46:55,600] [flaskapp.logging.CustomLogger] [DEBUG] => SQL error: (psycopg2.errors.UndefinedTable) ОШИБКА:  отношение "users" не существует
+LINE 1: select * from users;
+                      ^
+
+[SQL: select * from users;]
+(Background on this error at: https://sqlalche.me/e/20/f405) (app.py:36)
+[2024-07-09 15:46:55,603] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:46:55,603] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 15:57:19,613] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:19)
+[2024-07-09 15:57:19,637] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:30)
+[2024-07-09 15:57:19,754] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:34)
+[2024-07-09 15:57:19,757] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 15:57:19,757] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 16:15:53,661] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:19)
+[2024-07-09 16:15:53,685] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:30)
+[2024-07-09 16:15:53,693] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:34)
+[2024-07-09 16:15:53,695] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 16:15:53,695] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 16:16:21,308] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:19)
+[2024-07-09 16:16:21,333] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:30)
+[2024-07-09 16:16:21,454] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:34)
+[2024-07-09 16:16:21,457] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 16:16:21,457] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 16:17:41,474] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:19)
+[2024-07-09 16:17:41,499] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:30)
+[2024-07-09 16:17:41,503] [flaskapp.logging.CustomLogger] [DEBUG] => SQL error: (psycopg2.errors.UndefinedTable) ОШИБКА:  отношение "users" не существует
+LINE 1: select * from users;
+                      ^
+
+[SQL: select * from users;]
+(Background on this error at: https://sqlalche.me/e/20/f405) (app.py:37)
+[2024-07-09 16:17:41,505] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 16:17:41,505] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 16:17:52,623] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:19)
+[2024-07-09 16:17:52,648] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:30)
+[2024-07-09 16:17:52,808] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:35)
+[2024-07-09 16:17:52,810] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 16:17:52,810] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 17:43:14,054] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:43:39,948] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:44:20,393] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:46:01,204] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:46:30,984] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:46:31,009] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:34)
+[2024-07-09 17:46:31,043] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:39)
+[2024-07-09 17:46:31,046] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 17:46:31,046] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 17:47:05,058] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:47:48,478] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:47:55,403] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:48:27,318] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:48:54,294] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:50:09,969] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:50:42,274] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:50:55,791] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:51:24,203] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:52:36,668] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:54:06,038] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:54:12,743] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:54:54,078] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:22)
+[2024-07-09 17:54:57,613] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:31)
+[2024-07-09 17:57:40,812] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 17:57:47,236] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:00:49,697] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:00:49,698] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:00:49,724] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:00:49,758] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:00:49,761] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:00:49,761] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:01:09,908] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:01:09] "GET / HTTP/1.1" 200 - (_internal.py:97)
+[2024-07-09 18:01:09,975] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:01:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - (_internal.py:97)
+[2024-07-09 18:01:19,820] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:01:19,821] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:01:19,845] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:01:19,879] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:01:19,882] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:01:19,882] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:01:23,219] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:01:23] "GET / HTTP/1.1" 200 - (_internal.py:97)
+[2024-07-09 18:02:14,993] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:02:14,994] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:02:14,994] [flaskapp.logging.CustomLogger] [DEBUG] => Loading authv2 (app.py:34)
+[2024-07-09 18:02:15,019] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:02:15,053] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:02:15,055] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:02:15,055] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:02:21,331] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:02:21] "[33mGET /v2 HTTP/1.1[0m" 404 - (_internal.py:97)
+[2024-07-09 18:02:27,713] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:02:27] "GET /v1 HTTP/1.1" 200 - (_internal.py:97)
+[2024-07-09 18:09:15,510] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:09:15,511] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:09:15,536] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:09:15,570] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:09:15,572] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:09:15,572] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:09:19,898] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 10, in index
+    result = db.session.execute("select * from users;")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/scoping.py", line 778, in execute
+    return self._proxied.execute(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2134, in _execute_internal
+    statement = coercions.expect(roles.StatementRole, statement)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 396, in expect
+    resolved = impl._literal_coercion(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 621, in _literal_coercion
+    return self._text_coercion(element, argname, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 614, in _text_coercion
+    return _no_text_coercion(element, argname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 584, in _no_text_coercion
+    raise exc_cls(
+sqlalchemy.exc.ArgumentError: Textual SQL expression 'select * from users;' should be explicitly declared as text('select * from users;')
+[2024-07-09 18:09:19,900] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:09:19] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:09:20,007] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:09:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - (_internal.py:97)
+[2024-07-09 18:09:41,810] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:09:41,810] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:09:41,835] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:09:41,870] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:09:41,872] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:09:41,872] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:09:45,816] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 10, in index
+    result = db.session.execute("select * from users")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/scoping.py", line 778, in execute
+    return self._proxied.execute(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2134, in _execute_internal
+    statement = coercions.expect(roles.StatementRole, statement)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 396, in expect
+    resolved = impl._literal_coercion(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 621, in _literal_coercion
+    return self._text_coercion(element, argname, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 614, in _text_coercion
+    return _no_text_coercion(element, argname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 584, in _no_text_coercion
+    raise exc_cls(
+sqlalchemy.exc.ArgumentError: Textual SQL expression 'select * from users' should be explicitly declared as text('select * from users')
+[2024-07-09 18:09:45,818] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:09:45] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:10:20,249] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:10:24,105] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:10:24,142] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:10:24,196] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:10:24,202] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:10:24,202] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:10:29,102] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 10, in index
+    result = db.session.execute("select * from users")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/scoping.py", line 778, in execute
+    return self._proxied.execute(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2134, in _execute_internal
+    statement = coercions.expect(roles.StatementRole, statement)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 396, in expect
+    resolved = impl._literal_coercion(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 621, in _literal_coercion
+    return self._text_coercion(element, argname, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 614, in _text_coercion
+    return _no_text_coercion(element, argname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 584, in _no_text_coercion
+    raise exc_cls(
+sqlalchemy.exc.ArgumentError: Textual SQL expression 'select * from users' should be explicitly declared as text('select * from users')
+[2024-07-09 18:10:29,104] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:10:29] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:13:04,330] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:13:04,331] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:13:04,356] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:13:04,390] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:13:04,393] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:13:04,393] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:13:06,073] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 10, in index
+    result = db.session.execute("select * from users")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/scoping.py", line 778, in execute
+    return self._proxied.execute(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2134, in _execute_internal
+    statement = coercions.expect(roles.StatementRole, statement)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 396, in expect
+    resolved = impl._literal_coercion(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 621, in _literal_coercion
+    return self._text_coercion(element, argname, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 614, in _text_coercion
+    return _no_text_coercion(element, argname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 584, in _no_text_coercion
+    raise exc_cls(
+sqlalchemy.exc.ArgumentError: Textual SQL expression 'select * from users' should be explicitly declared as text('select * from users')
+[2024-07-09 18:13:06,075] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:13:06] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:13:07,395] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 10, in index
+    result = db.session.execute("select * from users")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/scoping.py", line 778, in execute
+    return self._proxied.execute(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/orm/session.py", line 2134, in _execute_internal
+    statement = coercions.expect(roles.StatementRole, statement)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 396, in expect
+    resolved = impl._literal_coercion(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 621, in _literal_coercion
+    return self._text_coercion(element, argname, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 614, in _text_coercion
+    return _no_text_coercion(element, argname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/sql/coercions.py", line 584, in _no_text_coercion
+    raise exc_cls(
+sqlalchemy.exc.ArgumentError: Textual SQL expression 'select * from users' should be explicitly declared as text('select * from users')
+[2024-07-09 18:13:07,396] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:13:07] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:15:29,144] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:15:29,145] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:15:29,169] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:15:29,205] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:15:29,207] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:15:29,207] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:15:31,500] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:15:31] "GET / HTTP/1.1" 200 - (_internal.py:97)
+[2024-07-09 18:16:47,609] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/result.py", line 199, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/cursor.py", line 824, in _key_fallback
+    raise exc.NoSuchColumnError(
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 14, in index
+    data = [{'id': row.id, 'name': row.name} for row in rows]
+                                   ^^^^^^^^
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 66, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 63, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/result.py", line 201, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: Could not locate column in row for column 'name'
+[2024-07-09 18:16:47,611] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:16:47] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:16:55,619] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:16:55,620] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:16:55,645] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:16:55,680] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:16:55,683] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:16:55,683] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:16:59,947] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/result.py", line 199, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/cursor.py", line 824, in _key_fallback
+    raise exc.NoSuchColumnError(
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 14, in index
+    data = [{'id': row.id, 'login': row.name} for row in rows]
+                                    ^^^^^^^^
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 66, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 63, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/result.py", line 201, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: Could not locate column in row for column 'name'
+[2024-07-09 18:16:59,949] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:16:59] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:17:14,732] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:17:14,733] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:17:14,758] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:17:14,793] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:17:14,795] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:17:14,795] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:17:16,347] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/result.py", line 199, in _key_not_found
+    self._key_fallback(key, None)
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/cursor.py", line 824, in _key_fallback
+    raise exc.NoSuchColumnError(
+sqlalchemy.exc.NoSuchColumnError: Could not locate column in row for column 'name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 14, in index
+    data = [{'id': row.id, 'login': row.name} for row in rows]
+                                    ^^^^^^^^
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 66, in sqlalchemy.cyextension.resultproxy.BaseRow.__getattr__
+  File "lib/sqlalchemy/cyextension/resultproxy.pyx", line 63, in sqlalchemy.cyextension.resultproxy.BaseRow._get_by_key_impl
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/sqlalchemy/engine/result.py", line 201, in _key_not_found
+    raise AttributeError(ke.args[0]) from ke
+AttributeError: Could not locate column in row for column 'name'
+[2024-07-09 18:17:16,349] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:17:16] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:17:28,950] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:17:28,951] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:17:28,987] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:17:29,041] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:17:29,046] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:17:29,046] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:17:58,741] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:17:58,742] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:17:58,766] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:17:58,801] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:17:58,804] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:17:58,804] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:18:00,877] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:18:00] "GET / HTTP/1.1" 200 - (_internal.py:97)
+[2024-07-09 18:19:12,088] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:19:12,089] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:19:12,126] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:19:12,181] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:19:12,185] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:19:12,185] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:19:29,575] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:19:29,577] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:19:29,613] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:19:29,668] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:19:29,673] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:19:29,673] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:19:32,137] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 12, in index
+    result = users.Users.query()
+             ^^^^^^^^^^^^^^^^^^^
+TypeError: 'Query' object is not callable
+[2024-07-09 18:19:32,139] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:19:32] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:20:16,129] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:20:16,130] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:20:16,166] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:20:16,219] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:20:16,224] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:20:16,224] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:20:22,180] [flaskapp.app] [ERROR] => Exception on / [GET] (app.py:838)
+Traceback (most recent call last):
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/.venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/firewolf/PycharmProjects/AuthMicroservice/flaskapp/routes/auth/main.py", line 12, in index
+    result = users.Users.query.get()
+             ^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Query.get() missing 1 required positional argument: 'ident'
+[2024-07-09 18:20:22,181] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:20:22] "[35m[1mGET / HTTP/1.1[0m" 500 - (_internal.py:97)
+[2024-07-09 18:20:44,240] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:20:44,242] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:20:44,278] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:20:44,335] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:20:44,339] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:20:44,340] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:21:17,917] [flaskapp.logging.CustomLogger] [INFO] => Starting service (app.py:23)
+[2024-07-09 18:21:17,918] [flaskapp.logging.CustomLogger] [DEBUG] => Loading auth (app.py:34)
+[2024-07-09 18:21:17,942] [flaskapp.logging.CustomLogger] [DEBUG] => Using sql engine: postgresql (app.py:47)
+[2024-07-09 18:21:17,977] [flaskapp.logging.CustomLogger] [DEBUG] => SQL is alive (app.py:52)
+[2024-07-09 18:21:17,980] [werkzeug] [INFO] => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 (_internal.py:97)
+[2024-07-09 18:21:17,980] [werkzeug] [INFO] => [33mPress CTRL+C to quit[0m (_internal.py:97)
+[2024-07-09 18:21:19,671] [werkzeug] [INFO] => 127.0.0.1 - - [09/Jul/2024 18:21:19] "GET / HTTP/1.1" 200 - (_internal.py:97)

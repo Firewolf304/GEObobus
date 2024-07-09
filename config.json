@@ -1,0 +1,25 @@
+{
+  "SERVER" : {
+    "IP" : "127.0.0.1",
+    "PORT" : 8080,
+    "STATIC_FOLDER" : "/front",
+    "STATIC_URL_PATH" : "/newmodule",
+    "ROUTES" : "flaskapp/routes"
+  },
+  "DATABASE" : {
+    "HOST" : "127.0.0.1",
+    "PORT" : "5432",
+    "USER" : "postgres",
+    "PASSWORD" : "postgres",
+    "DBNAME" : "test",
+    "PROTOCOL" : "postgresql",
+    "CREATE" : false,
+    "REFLECT" : true
+  },
+  "LOGGER" : {
+    "LOGLEVEL" : "DEBUG",
+    "FORMAT" : "[%(asctime)s] [%(name)s] [%(levelname)s] => %(message)s (%(filename)s:%(lineno)d)",
+    "FILENAME" : "logger.log",
+    "FLASK_DEBUG" : false
+  }
+}
