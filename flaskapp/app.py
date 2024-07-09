@@ -23,7 +23,7 @@ def create_app(config : json, current_path : str):
     logger.info ("Starting service")
 
     # app
-    app = flask.Flask(__name__, static_folder=config["SERVER"]["STATIC_FOLDER"], static_url_path=config["SERVER"]["STATIC_URL_PATH"])
+    app = flask.Flask(__name__, static_folder="../"+config["SERVER"]["STATIC_FOLDER"], static_url_path=config["SERVER"]["STATIC_URL_PATH"], template_folder="../"+config["SERVER"]["TEMPLATE_FOLDER"])
 
     # routes
     module_path = Path(os.path.abspath(os.curdir), config["SERVER"]["ROUTES"])

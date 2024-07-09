@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2024-07-09T15:46:35.852Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ONihuv-jyCenr9e5tbA1" version="24.6.4" type="device">
+  <diagram name="Страница — 1" id="wiehyFLyIFcD0loJ6S0l">
+    <mxGraphModel dx="1595" dy="1067" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cDy0u1EddXNLAdY6VXEj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="cDy0u1EddXNLAdY6VXEj-2" target="cDy0u1EddXNLAdY6VXEj-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDy0u1EddXNLAdY6VXEj-2" value="main.py" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-79" y="-109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="cDy0u1EddXNLAdY6VXEj-3" target="-dEddf8zFRjW1KIkACD0-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="33" />
+              <mxPoint x="99" y="-52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.562;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;entryPerimeter=0;" edge="1" parent="1" source="cDy0u1EddXNLAdY6VXEj-3" target="-dEddf8zFRjW1KIkACD0-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="146" y="43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-35" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="cDy0u1EddXNLAdY6VXEj-3" target="-dEddf8zFRjW1KIkACD0-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="33" />
+              <mxPoint x="99" y="-102" />
+              <mxPoint x="500" y="-102" />
+              <mxPoint x="500" y="-61" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDy0u1EddXNLAdY6VXEj-3" value="app.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-79" y="3" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dEddf8zFRjW1KIkACD0-9" target="cDy0u1EddXNLAdY6VXEj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-9" value="config.json" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-69" y="-231" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-18" value="dbconfig.py" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="146" y="-82" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-22" value="database.py" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="156.5" y="16" width="99" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="-dEddf8zFRjW1KIkACD0-18" target="-dEddf8zFRjW1KIkACD0-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-34" value="models" style="swimlane;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="301" y="-61" width="397" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-37" value="users.py" style="swimlane;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-dEddf8zFRjW1KIkACD0-34">
+          <mxGeometry x="18" y="39" width="179" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-38" value="Users" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-dEddf8zFRjW1KIkACD0-37">
+          <mxGeometry x="18" y="28" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-39" value="Login" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-dEddf8zFRjW1KIkACD0-37">
+          <mxGeometry x="102" y="28" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-40" value="Permissions" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-dEddf8zFRjW1KIkACD0-37">
+          <mxGeometry x="18" y="101" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-41" value="Roles" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-dEddf8zFRjW1KIkACD0-37">
+          <mxGeometry x="102" y="106" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-42" value="data.py" style="swimlane;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-dEddf8zFRjW1KIkACD0-34">
+          <mxGeometry x="212" y="39" width="173" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="-dEddf8zFRjW1KIkACD0-43" value="another&lt;div&gt;data&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="-dEddf8zFRjW1KIkACD0-42">
+          <mxGeometry x="49" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -2,8 +2,9 @@
   "SERVER" : {
     "IP" : "127.0.0.1",
     "PORT" : 8080,
-    "STATIC_FOLDER" : "/front",
-    "STATIC_URL_PATH" : "/newmodule",
+    "STATIC_FOLDER" : "front/",
+    "STATIC_URL_PATH" : "",
+    "TEMPLATE_FOLDER" : "front/",
     "ROUTES" : "flaskapp/routes"
   },
   "DATABASE" : {
